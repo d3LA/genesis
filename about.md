@@ -2,4 +2,4 @@
 
 ## Info about me!
 Dela is my favorite name
-[Back to Home Page](README.md)
+* [Back to Home Page](README.md)
